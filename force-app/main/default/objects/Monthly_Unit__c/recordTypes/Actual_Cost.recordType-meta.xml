@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Actual_Cost</fullName>
+    <active>true</active>
+    <label>Actual Cost</label>
+    <picklistValues>
+        <picklist>Type__c</picklist>
+        <values>
+            <fullName>KCSM</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>OAA Nutrition</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>OAA Supportive</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

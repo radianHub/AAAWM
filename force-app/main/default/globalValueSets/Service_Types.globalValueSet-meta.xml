@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Adaptive Equipment</fullName>
+        <default>false</default>
+        <label>Adaptive Equipment</label>
+    </customValue>
+    <customValue>
+        <fullName>Adult Day Services</fullName>
+        <default>false</default>
+        <label>Adult Day Services</label>
+    </customValue>
+    <customValue>
+        <fullName>Aging in Place Training and Support</fullName>
+        <default>false</default>
+        <label>Aging in Place Training and Support</label>
+    </customValue>
+    <customValue>
+        <fullName>Bathing Services</fullName>
+        <default>false</default>
+        <label>Bathing Services</label>
+    </customValue>
+    <customValue>
+        <fullName>Caregiver Education</fullName>
+        <default>false</default>
+        <label>Caregiver Education</label>
+    </customValue>
+    <customValue>
+        <fullName>Caregiver Support</fullName>
+        <default>false</default>
+        <label>Caregiver Support</label>
+    </customValue>
+    <customValue>
+        <fullName>Care Management</fullName>
+        <default>false</default>
+        <label>Care Management</label>
+    </customValue>
+    <customValue>
+        <fullName>Choices for Independence</fullName>
+        <default>false</default>
+        <label>Choices for Independence</label>
+    </customValue>
+    <customValue>
+        <fullName>Community Living Supports</fullName>
+        <default>false</default>
+        <label>Community Living Supports</label>
+    </customValue>
+    <customValue>
+        <fullName>Congregate Meals</fullName>
+        <default>false</default>
+        <label>Congregate Meals</label>
+    </customValue>
+    <customValue>
+        <fullName>Counseling Services</fullName>
+        <default>false</default>
+        <label>Counseling Services</label>
+    </customValue>
+    <customValue>
+        <fullName>Daily Money Management</fullName>
+        <default>false</default>
+        <label>Daily Money Management</label>
+    </customValue>
+    <customValue>
+        <fullName>Dementia Consult Program</fullName>
+        <default>false</default>
+        <label>Dementia Consult Program</label>
+    </customValue>
+    <customValue>
+        <fullName>Dental Services</fullName>
+        <default>false</default>
+        <label>Dental Services</label>
+    </customValue>
+    <customValue>
+        <fullName>Denture Services</fullName>
+        <default>false</default>
+        <label>Denture Services</label>
+    </customValue>
+    <customValue>
+        <fullName>Elder Abuse Prevention Education</fullName>
+        <default>false</default>
+        <label>Elder Abuse Prevention Education</label>
+    </customValue>
+    <customValue>
+        <fullName>Emergency Need Fund</fullName>
+        <default>false</default>
+        <label>Emergency Need Fund</label>
+    </customValue>
+    <customValue>
+        <fullName>Exercise/Fitness Classes</fullName>
+        <default>false</default>
+        <label>Exercise/Fitness Classes</label>
+    </customValue>
+    <customValue>
+        <fullName>Friendly Visitor</fullName>
+        <default>false</default>
+        <label>Friendly Visitor</label>
+    </customValue>
+    <customValue>
+        <fullName>Grandparent Support Group</fullName>
+        <default>false</default>
+        <label>Grandparent Support Group</label>
+    </customValue>
+    <customValue>
+        <fullName>Guardianship</fullName>
+        <default>false</default>
+        <label>Guardianship</label>
+    </customValue>
+    <customValue>
+        <fullName>Handy Helen Class</fullName>
+        <default>false</default>
+        <label>Handy Helen Class</label>
+    </customValue>
+    <customValue>
+        <fullName>Healthy Aging Programs</fullName>
+        <default>false</default>
+        <label>Healthy Aging Programs</label>
+    </customValue>
+    <customValue>
+        <fullName>Hearing Services, Adaptive Equipment and Hearing Aids</fullName>
+        <default>false</default>
+        <label>Hearing Services, Adaptive Equipment and Hearing Aids</label>
+    </customValue>
+    <customValue>
+        <fullName>Home Chore</fullName>
+        <default>false</default>
+        <label>Home Chore</label>
+    </customValue>
+    <customValue>
+        <fullName>Home Delivered Meals</fullName>
+        <default>false</default>
+        <label>Home Delivered Meals</label>
+    </customValue>
+    <customValue>
+        <fullName>Homemaking (In-Home Aide)</fullName>
+        <default>false</default>
+        <label>Homemaking (In-Home Aide)</label>
+    </customValue>
+    <customValue>
+        <fullName>Home Modification</fullName>
+        <default>false</default>
+        <label>Home Modification</label>
+    </customValue>
+    <customValue>
+        <fullName>Home Modification Assessment</fullName>
+        <default>false</default>
+        <label>Home Modification Assessment</label>
+    </customValue>
+    <customValue>
+        <fullName>Home Repair</fullName>
+        <default>false</default>
+        <label>Home Repair</label>
+    </customValue>
+    <customValue>
+        <fullName>Home Support</fullName>
+        <default>false</default>
+        <label>Home Support</label>
+    </customValue>
+    <customValue>
+        <fullName>Housing Coordination</fullName>
+        <default>false</default>
+        <label>Housing Coordination</label>
+    </customValue>
+    <customValue>
+        <fullName>Independent Living</fullName>
+        <default>false</default>
+        <label>Independent Living</label>
+    </customValue>
+    <customValue>
+        <fullName>Information and Assistance Phone Hotline</fullName>
+        <default>false</default>
+        <label>Information and Assistance Phone Hotline</label>
+    </customValue>
+    <customValue>
+        <fullName>In-home Respite</fullName>
+        <default>false</default>
+        <label>In-home Respite</label>
+    </customValue>
+    <customValue>
+        <fullName>Legal Assistance</fullName>
+        <default>false</default>
+        <label>Legal Assistance</label>
+    </customValue>
+    <customValue>
+        <fullName>Long Term Care Ombudsman</fullName>
+        <default>false</default>
+        <label>Long Term Care Ombudsman</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Equipment</fullName>
+        <default>false</default>
+        <label>Medical Equipment</label>
+    </customValue>
+    <customValue>
+        <fullName>Medicare/Medicaid Assistance</fullName>
+        <default>false</default>
+        <label>Medicare/Medicaid Assistance</label>
+    </customValue>
+    <customValue>
+        <fullName>Medication Management</fullName>
+        <default>false</default>
+        <label>Medication Management</label>
+    </customValue>
+    <customValue>
+        <fullName>MI Choice Program (Medicaid Waiver)</fullName>
+        <default>false</default>
+        <label>MI Choice Program (Medicaid Waiver)</label>
+    </customValue>
+    <customValue>
+        <fullName>Nursing Care</fullName>
+        <default>false</default>
+        <label>Nursing Care</label>
+    </customValue>
+    <customValue>
+        <fullName>Nursing Facility Transition</fullName>
+        <default>false</default>
+        <label>Nursing Facility Transition</label>
+    </customValue>
+    <customValue>
+        <fullName>Outreach and Assistance</fullName>
+        <default>false</default>
+        <label>Outreach and Assistance</label>
+    </customValue>
+    <customValue>
+        <fullName>Performance Reports</fullName>
+        <default>false</default>
+        <label>Performance Reports</label>
+    </customValue>
+    <customValue>
+        <fullName>Personal Care</fullName>
+        <default>false</default>
+        <label>Personal Care</label>
+    </customValue>
+    <customValue>
+        <fullName>Personal Emergency Response System</fullName>
+        <default>false</default>
+        <label>Personal Emergency Response System</label>
+    </customValue>
+    <customValue>
+        <fullName>Prescription Assistance</fullName>
+        <default>false</default>
+        <label>Prescription Assistance</label>
+    </customValue>
+    <customValue>
+        <fullName>Private Duty Nursing</fullName>
+        <default>false</default>
+        <label>Private Duty Nursing</label>
+    </customValue>
+    <customValue>
+        <fullName>Professional Organizing and Coaching</fullName>
+        <default>false</default>
+        <label>Professional Organizing and Coaching</label>
+    </customValue>
+    <customValue>
+        <fullName>Recreation Therapy Program</fullName>
+        <default>false</default>
+        <label>Recreation Therapy Program</label>
+    </customValue>
+    <customValue>
+        <fullName>Respite</fullName>
+        <default>false</default>
+        <label>Respite</label>
+    </customValue>
+    <customValue>
+        <fullName>Respite Certificates</fullName>
+        <default>false</default>
+        <label>Respite Certificates</label>
+    </customValue>
+    <customValue>
+        <fullName>Retired Senior Volunteer Program (RSVP)</fullName>
+        <default>false</default>
+        <label>Retired Senior Volunteer Program (RSVP)</label>
+    </customValue>
+    <customValue>
+        <fullName>Senior Centers</fullName>
+        <default>false</default>
+        <label>Senior Centers</label>
+    </customValue>
+    <customValue>
+        <fullName>Senior Companion Program</fullName>
+        <default>false</default>
+        <label>Senior Companion Program</label>
+    </customValue>
+    <customValue>
+        <fullName>Senior Food Pantry</fullName>
+        <default>false</default>
+        <label>Senior Food Pantry</label>
+    </customValue>
+    <customValue>
+        <fullName>Smart Mondy University</fullName>
+        <default>false</default>
+        <label>Smart Mondy University</label>
+    </customValue>
+    <customValue>
+        <fullName>Technology Support</fullName>
+        <default>false</default>
+        <label>Technology Support</label>
+    </customValue>
+    <customValue>
+        <fullName>Transportation - Assisted</fullName>
+        <default>false</default>
+        <label>Transportation - Assisted</label>
+    </customValue>
+    <customValue>
+        <fullName>Transportation - Public</fullName>
+        <default>false</default>
+        <label>Transportation - Public</label>
+    </customValue>
+    <customValue>
+        <fullName>Vision Counseling</fullName>
+        <default>false</default>
+        <label>Vision Counseling</label>
+    </customValue>
+    <customValue>
+        <fullName>Vision Services Clinics</fullName>
+        <default>false</default>
+        <label>Vision Services Clinics</label>
+    </customValue>
+    <customValue>
+        <fullName>Weatherization</fullName>
+        <default>false</default>
+        <label>Weatherization</label>
+    </customValue>
+    <masterLabel>Service Types</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
