@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>OAA Supportive</fullName>
+        <default>false</default>
+        <label>OAA Supportive</label>
+    </customValue>
+    <customValue>
+        <fullName>OAA Nutrition</fullName>
+        <default>false</default>
+        <label>OAA Nutrition</label>
+    </customValue>
+    <customValue>
+        <fullName>KCSM</fullName>
+        <default>false</default>
+        <label>KCSM</label>
+    </customValue>
+    <customValue>
+        <fullName>Actual Cost</fullName>
+        <default>false</default>
+        <label>Actual Cost</label>
+    </customValue>
+    <masterLabel>Service Categories</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
