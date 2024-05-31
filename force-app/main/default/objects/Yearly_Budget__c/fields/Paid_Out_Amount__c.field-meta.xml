@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Paid_Out_Amount__c</fullName>
+    <externalId>false</externalId>
     <label>Paid Out Amount</label>
-    <summarizedField>Disbursed_Funds__c.Payout_Amount__c</summarizedField>
-    <summaryForeignKey>Disbursed_Funds__c.Yearly_Budget__c</summaryForeignKey>
+    <summarizedField>Monthly_Unit__c.Total__c</summarizedField>
+    <summaryForeignKey>Monthly_Unit__c.Yearly_Budget__c</summaryForeignKey>
     <summaryOperation>sum</summaryOperation>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>
