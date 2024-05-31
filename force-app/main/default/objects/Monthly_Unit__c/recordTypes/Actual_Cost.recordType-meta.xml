@@ -4,7 +4,11 @@
     <active>true</active>
     <label>Actual Cost</label>
     <picklistValues>
-        <picklist>Type__c</picklist>
+        <picklist>Category__c</picklist>
+        <values>
+            <fullName>Actual Cost</fullName>
+            <default>false</default>
+        </values>
         <values>
             <fullName>KCSM</fullName>
             <default>false</default>
