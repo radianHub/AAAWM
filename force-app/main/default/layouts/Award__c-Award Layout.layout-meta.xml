@@ -100,7 +100,7 @@
         <fields>Check_Request__c.NAME</fields>
         <fields>Service__c</fields>
         <fields>Total__c</fields>
-        <relatedList>Monthly_Unit__c.Yearly_Budget__c</relatedList>
+        <relatedList>Monthly_Unit__c.Award__c</relatedList>
     </relatedLists>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showHighlightsPanel>false</showHighlightsPanel>
