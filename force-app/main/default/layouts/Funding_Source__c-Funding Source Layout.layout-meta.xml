@@ -59,8 +59,7 @@
     </layoutSections>
     <relatedLists>
         <fields>NAME</fields>
-        <fields>Service_Types__c</fields>
-        <relatedList>Yearly_Budget__c.Funding_Source__c</relatedList>
+        <relatedList>Funding_Budget__c.Funding_Source__c</relatedList>
     </relatedLists>
     <relatedLists>
         <fields>TASK.SUBJECT</fields>
