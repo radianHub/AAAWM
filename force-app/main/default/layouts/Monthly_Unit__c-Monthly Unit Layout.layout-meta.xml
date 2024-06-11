@@ -28,7 +28,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
-                <field>Yearly_Budget__c</field>
+                <field>Award__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
